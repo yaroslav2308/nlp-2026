@@ -1,0 +1,8 @@
+# The GitHub repository contains only completed personal labs.
+*
+!.gitignore
+!my-labs/
+!my-labs/**
+
+# Notebook checkpoints stay local even inside my-labs.
+my-labs/.ipynb_checkpoints/
